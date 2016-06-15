@@ -4,11 +4,6 @@
     "./deploy/deploy.js",
     "./invoke/invoke.js",
     "./remove/remove.js",
-    "./awsCompileFunctions/awsCompileFunctions.js",
-    "./awsCompileS3Events/awsCompileS3Events.js",
-    "./awsDeploy/awsDeploy.js",
-    "./awsInvoke/awsInvoke.js",
-    "./awsRemoveResources/awsRemoveResources.js",
-    "./helloWorld/helloWorld.js"
+    "TODO: ADD AZURE"
   ]
 }
